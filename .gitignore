@@ -2,10 +2,10 @@
 *.class
 target
 *.iml
-.idea
+*.idea
 # Log file
 *.log
-DS
+*.DS_Store
 # BlueJ files
 *.ctxt
 
